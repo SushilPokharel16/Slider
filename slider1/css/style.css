@@ -1,0 +1,28 @@
+.one{
+  background: #000;
+}
+.pluto{
+  color: #fff;
+  font-size: 20px;
+  margin-left: 10px;
+}
+.mySign{
+  color: #fff;
+
+}
+.myClock{
+  color: #fff;
+}
+.myWords{
+  color: #fff;
+  margin-top: 170px;
+}
+.load{
+  background: green;
+}
+.more{
+  border: 1px solid #fff;
+}
+.pencil{
+  margin-top: 50px;
+}
